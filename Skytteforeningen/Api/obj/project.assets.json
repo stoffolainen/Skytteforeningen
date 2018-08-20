@@ -11160,7 +11160,7 @@
       ]
     },
     "System.ValueTuple/4.3.0": {
-      "sha512": "b91cXsVrI449IusvNYOpuCGbe6Ju9ajJKaadhJU5p+LCoSvsip1eNmnXqC3/V15upthvHmx+wMsx2phd8uXqlA==",
+      "sha512": "cNLEvBX3d6MMQRZe3SMFNukVbitDAEpVZO17qa0/2FHxZ7Y7PpFRpr6m2615XYM/tYYYf0B+WyHNujqIw8Luwg==",
       "type": "package",
       "path": "system.valuetuple/4.3.0",
       "files": [
@@ -11500,23 +11500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chka\\.nuget\\packages\\": {},
+    "C:\\Users\\ahakille\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Hobby\\Skytteforeningen\\Skytteforeningen\\Api\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\ahakille\\Source\\Repos\\Skytteforeningen\\Skytteforeningen\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Hobby\\Skytteforeningen\\Skytteforeningen\\Api\\Api.csproj",
-      "packagesPath": "C:\\Users\\chka\\.nuget\\packages\\",
-      "outputPath": "C:\\Hobby\\Skytteforeningen\\Skytteforeningen\\Api\\obj\\",
+      "projectPath": "C:\\Users\\ahakille\\Source\\Repos\\Skytteforeningen\\Skytteforeningen\\Api\\Api.csproj",
+      "packagesPath": "C:\\Users\\ahakille\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ahakille\\Source\\Repos\\Skytteforeningen\\Skytteforeningen\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\chka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ahakille\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
