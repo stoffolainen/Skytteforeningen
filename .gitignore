@@ -5,3 +5,13 @@
 /.vs/slnx.sqlite
 /.vs/VSWorkspaceState.json
 /Skytteforeningen/.vs/Skytteforeningen/v15
+/Skytteforeningen/Api/bin/Debug/netcoreapp2.1/Api.deps.json
+/Skytteforeningen/Api/bin/Debug/netcoreapp2.1/Api.dll
+/Skytteforeningen/Api/bin/Debug/netcoreapp2.1/Api.pdb
+/Skytteforeningen/Api/bin/Debug/netcoreapp2.1/Api.runtimeconfig.dev.json
+/Skytteforeningen/Api/bin/Debug/netcoreapp2.1/Api.runtimeconfig.json
+/Skytteforeningen/Api/bin/Debug/netcoreapp2.1/Domain.dll
+/Skytteforeningen/Api/bin/Debug/netcoreapp2.1/Domain.pdb
+/Skytteforeningen/Domain/bin/Debug/netcoreapp2.1/Domain.deps.json
+/Skytteforeningen/Domain/bin/Debug/netcoreapp2.1/Domain.pdb
+/Skytteforeningen/Domain/bin/Debug/netcoreapp2.1/Domain.dll
