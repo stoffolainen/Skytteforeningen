@@ -24,3 +24,5 @@
 /Skytteforeningen/Domain/obj/Debug/netcoreapp2.1/Domain.csprojAssemblyReference.cache
 /Skytteforeningen/Domain/obj/Debug/netcoreapp2.1/Domain.dll
 /Skytteforeningen/Domain/obj/Debug/netcoreapp2.1/Domain.pdb
+/Skytteforeningen/Domain/obj/*
+/Skytteforeningen/Api/obj/*
