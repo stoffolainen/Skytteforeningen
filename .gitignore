@@ -24,10 +24,10 @@
 /Skytteforeningen/Domain/obj/Debug/netcoreapp2.1/Domain.csprojAssemblyReference.cache
 /Skytteforeningen/Domain/obj/Debug/netcoreapp2.1/Domain.dll
 /Skytteforeningen/Domain/obj/Debug/netcoreapp2.1/Domain.pdb
-/Skytteforeningen/Domain/obj/Debug/
-/Skytteforeningen/Domain/obj/Release/
-/Skytteforeningen/Api/obj/Debug/
-/Skytteforeningen/Api/obj/Release/
+/Skytteforeningen/Domain/obj/Debug/*
+/Skytteforeningen/Domain/obj/Release/*
+/Skytteforeningen/Api/obj/Debug/*
+/Skytteforeningen/Api/obj/Release/*
 /Skytteforeningen/Api/obj/Release/netcoreapp2.1/Api.AssemblyInfo.cs
 /Skytteforeningen/Api/obj/Release/netcoreapp2.1/Api.RazorAssemblyInfo.cs
 /Skytteforeningen/Api/obj/Release/netcoreapp2.1/Api.RazorAssemblyInfo.cache
